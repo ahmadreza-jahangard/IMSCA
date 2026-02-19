@@ -70,9 +70,3 @@ We report results on:
 
 
 Improvements are primarily observed in body and tail predicates under SGDet.
-
----
-
-**Dataset:** Visual Genome (VG150 split)  
-**Metric:** Mean Recall@ 50 / 100
-
