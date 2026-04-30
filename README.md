@@ -1,16 +1,16 @@
-<center> 
+<div align="center">
 
 
-# Integrating MLM Scoring and Cross-Attention: A Bridge to Semantic-Aware Scene Graph Generation
+<h1> Integrating MLM Scoring and Cross-Attention: A Bridge to Semantic-Aware Scene Graph Generation </h1>
+</div>
 
 
 
+<div align="center">
+<h2>Authors</h2>
+ <h2>Ahmad Reza Jahangard &emsp;&emsp;&emsp;&emsp;  Mohammad Javad Parseh </h2>
 
-
-## Authors
-## Ahmad Reza Jahangard &emsp;&emsp;&emsp;&emsp;  Mohammad Javad Parseh 
-
-</center>
+</div>
  
 
 
