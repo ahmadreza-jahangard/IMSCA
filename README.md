@@ -22,7 +22,7 @@
 
 
 
-This repository provides the official implementation of our no name.
+This repository provides the official implementation of our IMSCA.
 
 The method builds upon the Selective Quad Attention (SQUAT) architecture and introduces frozen BERT-based semantic priors to improve robustness under long-tailed predicate distributions.
 
@@ -72,8 +72,8 @@ We report results on:
 | Setting  | mR@50 | mR@100 | Checkpoint |
 |-----------|--------|---------|------------|
 | SGDet     | 14.5   | 17.2    | [Download](https://drive.google.com/drive/folders/178BRUzOl-eMd5C5_V_J9bdPPWqnLcEqx?usp=sharing) |
-| SGCls     | 17.2   |  19.1   | [Download](https://drive.google.com/drive/folders/1oKBoQ9nlZLUGAtLIQnvzpsGlNqn-OQBs?usp=sharing) |
-| PredCls   | 30.5   |  33.2   | [Download](https://drive.google.com/drive/folders/1yuQqto1tmQMu9PQIL5tuAR8iy709wRDM?usp=sharing) |
+| SGCls     | 17.4   |  19.2   | [Download](https://drive.google.com/drive/folders/1oKBoQ9nlZLUGAtLIQnvzpsGlNqn-OQBs?usp=sharing) |
+| PredCls   | 30.8   |  33.2   | [Download](https://drive.google.com/drive/folders/1yuQqto1tmQMu9PQIL5tuAR8iy709wRDM?usp=sharing) |
 
 
 Improvements are primarily observed in body and tail predicates under SGDet.
