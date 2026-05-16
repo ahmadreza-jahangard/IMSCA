@@ -1,28 +1,26 @@
-<div align="center">
+<center> 
 
 
-<h1> Integrating MLM Scoring and Cross-Attention: A Bridge to Semantic-Aware Scene Graph Generation </h1>
-</div>
+# Integrating MLM Scoring and Cross-Attention: A Bridge to Semantic-Aware Scene Graph Generation
 
 
 
-<div align="center">
-<h2>Authors</h2>
- <h2>Ahmad Reza Jahangard &emsp;&emsp;&emsp;&emsp;  Mohammad Javad Parseh </h2>
 
-</div>
+
+## Authors
+## Ahmad Reza Jahangard &emsp;&emsp;&emsp;&emsp;  Mohammad Javad Parseh 
+
+</center>
  
 
 
 
 ![fulll](./assets/full.png)
-
-
 ## Paper
 
 
 
-This repository provides the official implementation of our IMSCA.
+This repository provides the official implementation of our no name.
 
 The method builds upon the Selective Quad Attention (SQUAT) architecture and introduces frozen BERT-based semantic priors to improve robustness under long-tailed predicate distributions.
 
@@ -72,8 +70,13 @@ We report results on:
 | Setting  | mR@50 | mR@100 | Checkpoint |
 |-----------|--------|---------|------------|
 | SGDet     | 14.5   | 17.2    | [Download](https://drive.google.com/drive/folders/178BRUzOl-eMd5C5_V_J9bdPPWqnLcEqx?usp=sharing) |
-| SGCls     | 17.4   |  19.2   | [Download](https://drive.google.com/drive/folders/1oKBoQ9nlZLUGAtLIQnvzpsGlNqn-OQBs?usp=sharing) |
-| PredCls   | 30.8   |  33.2   | [Download](https://drive.google.com/drive/folders/1yuQqto1tmQMu9PQIL5tuAR8iy709wRDM?usp=sharing) |
-
+| SGCls     | 18.9   |  22.7   | [Download](https://drive.google.com/drive/folders/1oKBoQ9nlZLUGAtLIQnvzpsGlNqn-OQBs?usp=sharing) |
+| PredCls   | 31.3   |  36.4   | [Download](https://drive.google.com/drive/folders/1yuQqto1tmQMu9PQIL5tuAR8iy709wRDM?usp=sharing) |3
 
 Improvements are primarily observed in body and tail predicates under SGDet.
+
+---
+
+**Dataset:** Visual Genome (VG150 split)  
+**Metric:** Mean Recall@ 50 / 100
+
