@@ -70,8 +70,8 @@ We report results on:
 | Setting  | mR@50 | mR@100 | Checkpoint |
 |-----------|--------|---------|------------|
 | SGDet     | 14.5   | 17.2    | [Download](https://drive.google.com/drive/folders/178BRUzOl-eMd5C5_V_J9bdPPWqnLcEqx?usp=sharing) |
-| SGCls     | 18.9   |  22.7   | [Download](https://drive.google.com/drive/folders/1oKBoQ9nlZLUGAtLIQnvzpsGlNqn-OQBs?usp=sharing) |
-| PredCls   | 31.3   |  36.4   | [Download](https://drive.google.com/drive/folders/1yuQqto1tmQMu9PQIL5tuAR8iy709wRDM?usp=sharing) |3
+| SGCls     | 19.3   |  22.7   | [Download](https://drive.google.com/drive/folders/1oKBoQ9nlZLUGAtLIQnvzpsGlNqn-OQBs?usp=sharing) |
+| PredCls   | 31.3   |  36.9   | [Download](https://drive.google.com/drive/folders/1yuQqto1tmQMu9PQIL5tuAR8iy709wRDM?usp=sharing) |3
 
 Improvements are primarily observed in body and tail predicates under SGDet.
 
